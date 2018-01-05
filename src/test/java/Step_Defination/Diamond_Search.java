@@ -37,6 +37,7 @@ public class Diamond_Search {
 	        logger.info("Fetching URL and Opening the Url");
 	        
 	        driver.get("http://www.rarecarat.com");
+	        //Comment Ashu
 	        
 		}
 
