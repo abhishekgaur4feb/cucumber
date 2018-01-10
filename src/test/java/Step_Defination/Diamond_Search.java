@@ -28,7 +28,8 @@ public class Diamond_Search {
 	public void Open_firefox_and_start_application() throws Throwable {
 		BasicConfigurator.configure();
 		logger.info("Opening Browser");
-		System.setProperty("webdriver.chrome.driver","driver//chromedriver");
+		//System.setProperty("webdriver.chrome.driver","driver//chromedriver");
+		System.setProperty("webdriver.chrome.driver","driver//chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
