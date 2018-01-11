@@ -49,14 +49,14 @@ public class Diamond_Search {
 		BasicConfigurator.configure();
 		Filter_By_Diamond_page fbd = new Filter_By_Diamond_page(driver);
 		// System.out.println(price_left);
-		logger.info("Clicking on Search by Retailer");
-		fbd.filter_retailer().click();
-		Thread.sleep(2000);
-		logger.info("Removing Offline Retailer check");
-		fbd.offline_check().click();
+		//logger.info("Clicking on Search by Retailer");
+		//fbd.filter_retailer().click();
+		//Thread.sleep(2000);
+		//logger.info("Removing Offline Retailer check");
+		//fbd.offline_check().click();
 		// Filter By Diamond
-		fbd.Filter_By_Diamond().click();
-		Thread.sleep(2000);
+		//fbd.Filter_By_Diamond().click();
+		//Thread.sleep(2000);
 
 		((JavascriptExecutor) driver).executeScript(
 				"arguments[0].scrollIntoView();", fbd.Photo_Video());
