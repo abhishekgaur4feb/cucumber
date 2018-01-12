@@ -40,12 +40,8 @@ public class Diamond_Search {
 
 	}
 
-	@When("^User enters \"(.*?)\" and \"(.*?)\" and \"(.*?)\" and \"(.*?)\" and \"(.*?)\" and \"(.*?)\" and \"(.*?)\" and \"(.*?)\" and \"(.*?)\" and \"(.*?)\"$")
-	public void Filter_By_Diamond_TestCase(String price_left,
-			String Carat_left, int Color_left_param, int Color_right_param,
-			int Cut_left_param, int Cut_right_param, int Clarity_left_param,
-			int Clarity_right_param, int flo_left_param, int flo_right_param)
-			throws InterruptedException {
+	@When("^User enters \"(.*?)\" and \"(.*?)\" and \"(.*?)\" and  \"(.*?)\" and \"(.*?)\"$")
+	public void Filter_By_Diamond_TestCase(String price_right,String Carat_left, int Color_right_param,int Cut_right_param, int Clarity_right_param) throws InterruptedException {
 		BasicConfigurator.configure();
 		Filter_By_Diamond_page fbd = new Filter_By_Diamond_page(driver);
 		// System.out.println(price_left);
@@ -58,6 +54,69 @@ public class Diamond_Search {
 		//fbd.Filter_By_Diamond().click();
 		//Thread.sleep(2000);
 
+		
+		
+		//Price
+		logger.info("Looking for Price in Resource");
+		fbd.pricetextmax().clear();
+		fbd.pricetextmax().sendKeys(Keys.chord(Keys.CONTROL, "a"), price_right);
+		Thread.sleep(2000);
+		fbd.pricetextmax().sendKeys(Keys.chord(Keys.ENTER));
+		logger.info("Price given successfully");
+		
+		
+		//Carat
+		
+		logger.info("Looking for Carat in Resource");
+		((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView();", fbd.Carat());
+		fbd.Carat().clear();
+		fbd.Carat().sendKeys(Keys.chord(Keys.CONTROL, "a"), Carat_left);
+		fbd.Carat().sendKeys(Keys.chord(Keys.ENTER));
+		logger.info("Carat given successfully");
+		Thread.sleep(2000);
+		
+		
+		//CUT
+		logger.info("Looking for Cut in XML");
+		Thread.sleep(2000);
+		((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView();", fbd.Cut_right());
+		//Identify WebElement
+		//WebElement sliderM3 = fbd.Cut_left();	  
+	   // new Actions(driver).dragAndDropBy(sliderM3,Cut_left_param, 0).build().perform();
+        Thread.sleep(2000);
+	    WebElement sliderM4 = fbd.Cut_right();
+		new Actions(driver).dragAndDropBy(sliderM4,Cut_right_param, 0).build().perform();
+		logger.info("Cut selected successfully");
+		
+		
+		
+		logger.info("Looking in Xml for Color");
+		//COLOR
+		((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView();", fbd.Color_Right());
+		//Identify WebElement
+		//WebElement sliderM1 = fbd.Color_left();	  
+	   // new Actions(driver).dragAndDropBy(sliderM1,Color_left_param, 0).build().perform();
+        Thread.sleep(2000);
+	    WebElement sliderM2 = fbd.Color_Right();
+		new Actions(driver).dragAndDropBy(sliderM2,Color_right_param, 0).build().perform();
+		logger.info("Color selected successfully");
+		
+		
+
+		//CLARITY
+		logger.info("Looking in Xml for Clarity");
+		Thread.sleep(2000);
+		((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView();", fbd.Clarity_Right());
+		//Identify WebElement
+		//WebElement sliderM5 = fbd.Clarity_left();	  
+	    //new Actions(driver).dragAndDropBy(sliderM5,Clarity_left_param, 0).build().perform();
+        Thread.sleep(2000);
+	    WebElement sliderM6 = fbd.Clarity_Right();
+		new Actions(driver).dragAndDropBy(sliderM6,Clarity_right_param, 0).build().perform();
+		logger.info("Clarity selected successfully");
+		
+		fbd.AGS_check().click();
+		
 		((JavascriptExecutor) driver).executeScript(
 				"arguments[0].scrollIntoView();", fbd.Photo_Video());
 		fbd.Photo_Video().click();
@@ -94,7 +153,7 @@ public class Diamond_Search {
 
 	@Then("^Application should be closed$")
 	public void application_should_be_closed() throws Throwable {
-		driver.quit();
+		//driver.quit();
 	}
 
 }

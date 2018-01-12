@@ -1,124 +1,99 @@
 [
   {
-    "id": "login-action",
-    "description": "",
-    "name": "Login Action",
-    "keyword": "Feature",
     "line": 1,
     "elements": [
       {
-        "id": "login-action;successful-login-with-valid-credentials;;2",
-        "description": "",
-        "name": "Successful Login with Valid Credentials",
-        "keyword": "Scenario Outline",
         "line": 11,
+        "name": "Successful Login with Valid Credentials",
+        "description": "",
+        "id": "login-action;successful-login-with-valid-credentials;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
         "steps": [
           {
             "result": {
-              "duration": 14301288075,
+              "duration": 11249222391,
               "status": "passed"
             },
-            "name": "Open firefox and start application",
-            "keyword": "Given ",
             "line": 4,
+            "name": "Open firefox and start application",
             "match": {
               "location": "Diamond_Search.Open_firefox_and_start_application()"
-            }
+            },
+            "keyword": "Given "
           },
           {
             "result": {
-              "duration": 17563007570,
+              "duration": 22871952374,
               "status": "passed"
             },
-            "name": "User enters \"9500\" and \".90\" and \"-120\" and \"120\" and \"-100\" and \"100\" and \"-128\" and \"128\" and \"-150\" and \"150\"",
-            "keyword": "When ",
             "line": 5,
+            "name": "User enters \"10000\" and \"1.5\" and \"80\" and  \"180\" and \"84\"",
             "match": {
               "arguments": [
                 {
-                  "val": "9500",
+                  "val": "10000",
                   "offset": 13
                 },
                 {
-                  "val": ".90",
-                  "offset": 24
+                  "val": "1.5",
+                  "offset": 25
                 },
                 {
-                  "val": "-120",
-                  "offset": 34
+                  "val": "80",
+                  "offset": 35
                 },
                 {
-                  "val": "120",
+                  "val": "180",
                   "offset": 45
                 },
                 {
-                  "val": "-100",
+                  "val": "84",
                   "offset": 55
-                },
-                {
-                  "val": "100",
-                  "offset": 66
-                },
-                {
-                  "val": "-128",
-                  "offset": 76
-                },
-                {
-                  "val": "128",
-                  "offset": 87
-                },
-                {
-                  "val": "-150",
-                  "offset": 97
-                },
-                {
-                  "val": "150",
-                  "offset": 108
                 }
               ],
-              "location": "Diamond_Search.Filter_By_Diamond_TestCase(String,String,int,int,int,int,int,int,int,int)"
+              "location": "Diamond_Search.Filter_By_Diamond_TestCase(String,String,int,int,int)"
             },
             "matchedColumns": [
               0,
               1,
               2,
               3,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9
-            ]
+              4
+            ],
+            "keyword": "When "
           },
           {
             "result": {
-              "duration": 417852,
+              "duration": 953477,
               "status": "passed"
             },
-            "name": "Message displayed Search Successful",
-            "keyword": "Then ",
             "line": 6,
+            "name": "Message displayed Search Successful",
             "match": {
               "location": "Diamond_Search.Message_displayed_Login_Successfully()"
-            }
+            },
+            "keyword": "Then "
           },
           {
             "result": {
-              "duration": 1268766196,
+              "duration": 11284,
               "status": "passed"
             },
-            "name": "Application should be closed",
-            "keyword": "Then ",
             "line": 7,
+            "name": "Application should be closed",
             "match": {
               "location": "Diamond_Search.application_should_be_closed()"
-            }
+            },
+            "keyword": "Then "
           }
-        ],
-        "type": "scenario"
+        ]
       }
     ],
+    "name": "Login Action",
+    "description": "",
+    "id": "login-action",
+    "keyword": "Feature",
     "uri": "dailyroutine.feature"
   }
 ]
