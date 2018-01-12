@@ -153,7 +153,7 @@ public class Diamond_Search {
 
 	@Then("^Application should be closed$")
 	public void application_should_be_closed() throws Throwable {
-		//driver.quit();
+		driver.quit();
 	}
 
 }
