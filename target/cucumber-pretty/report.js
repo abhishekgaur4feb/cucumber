@@ -104,7 +104,7 @@ formatter.match({
   "location": "Diamond_Search.Open_firefox_and_start_application()"
 });
 formatter.result({
-  "duration": 11249222391,
+  "duration": 11005815702,
   "status": "passed"
 });
 formatter.match({
@@ -133,21 +133,21 @@ formatter.match({
   "location": "Diamond_Search.Filter_By_Diamond_TestCase(String,String,int,int,int)"
 });
 formatter.result({
-  "duration": 22871952374,
+  "duration": 30562689377,
   "status": "passed"
 });
 formatter.match({
   "location": "Diamond_Search.Message_displayed_Login_Successfully()"
 });
 formatter.result({
-  "duration": 953477,
+  "duration": 7040339,
   "status": "passed"
 });
 formatter.match({
   "location": "Diamond_Search.application_should_be_closed()"
 });
 formatter.result({
-  "duration": 11284,
+  "duration": 1563910135,
   "status": "passed"
 });
 });

@@ -23,6 +23,7 @@ import cucumber.api.java.en.When;
 public class Diamond_Search {
 	static final Logger logger = Logger.getLogger(Diamond_Search.class);
 	public static WebDriver driver;
+	EmailAttachmentSender es=new EmailAttachmentSender();
 
 	@Given("^Open firefox and start application$")
 	public void Open_firefox_and_start_application() throws Throwable {
@@ -143,6 +144,12 @@ public class Diamond_Search {
 		System.out.println("Total Search Time taken: " + totalTime
 				+ "milliseconds");
 		logger.info("Total Search Time taken: " + totalTime + "milliseconds");
+		
+		if(totalTime > 3000){
+
+			es.testmail();
+			
+		    }
 
 	}
 
