@@ -98,7 +98,7 @@ public class EmailAttachmentSender {
          
          // attachments
          String[] attachFiles = new String[1];
-         attachFiles[0] = "/cucumber/master/log/testlog.log";
+         attachFiles[0] = "../cucumber/master/log/testlog.log";
          //attachFiles[1] = "e:/Test/Music.mp3";
          
         // attachFiles[2] = "e:/Test/Video.mp4";
