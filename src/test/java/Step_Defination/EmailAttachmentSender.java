@@ -1,5 +1,7 @@
 package Step_Defination;
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.Date;
 import java.util.Properties;
  
@@ -82,8 +84,9 @@ public class EmailAttachmentSender {
     /**
      * Test sending e-mail with attachments
      * @return 
+     * @throws MalformedURLException 
      */
-    public void testmail() {
+    public void testmail(){
         // SMTP info
     	 String host = "smtp.gmail.com";
          String port = "587";
@@ -98,7 +101,11 @@ public class EmailAttachmentSender {
          
          // attachments
          String[] attachFiles = new String[1];
-         attachFiles[0] = "../cucumber/master/log/testlog.log";
+
+         attachFiles[0] = "../cucumber/log/testlog.log";
+         //https://rawgit.com/abhishekgaur4feb/cucumber/master/log/testlog.log
+         //cucumber/log/testlog.log
+        // https://github.com/abhishekgaur4feb/cucumber.git
          //attachFiles[1] = "e:/Test/Music.mp3";
          
         // attachFiles[2] = "e:/Test/Video.mp4";
