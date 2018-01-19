@@ -94,7 +94,7 @@ public class EmailAttachmentSender {
          String password = "Sparkle7@";
   
          // message info
-         String mailTo = "abhishekgaur054@gmail.com";
+         String mailTo = "alerts@rarecarat.com";
          String subject = "Rare Carat Search Time Duration";
          String message = "Hi all,"+"<p/>"+"	Diamond Search Time is taking More than 15 seconds.Kindly Check the Reason Behind."+ "<p/>"+"Please find attached logs for reference."+ "<p/>"+"Regards"+ "<p/>"+"Abhishek Gaur";
          
