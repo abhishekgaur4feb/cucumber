@@ -102,7 +102,7 @@ public class EmailAttachmentSender {
          // attachments
          String[] attachFiles = new String[1];
 
-         attachFiles[0] = "../cucumber/log/testlog.log";
+         attachFiles[0] = "testlog.log";
          //https://rawgit.com/abhishekgaur4feb/cucumber/master/log/testlog.log
          //cucumber/log/testlog.log
         // https://github.com/abhishekgaur4feb/cucumber.git
