@@ -145,7 +145,7 @@ public class Diamond_Search {
 				+ "milliseconds");
 		logger.info("Total Search Time taken: " + totalTime + "milliseconds");
 		
-		if(totalTime > 3000){
+		if(totalTime > 15000){
 
 			es.testmail();
 			
