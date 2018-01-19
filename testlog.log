@@ -1,0 +1,285 @@
+2018-01-18 16:16:48,477 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 16:16:52,872 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 16:17:01,887 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 16:17:04,268 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 16:17:04,269 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 16:17:04,453 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 16:17:06,454 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 16:17:10,654 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 16:17:10,656 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 16:17:12,786 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 16:17:12,787 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 16:17:17,014 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 16:17:17,193 - Step_Defination.Diamond_Search -INFO - Test start Time1516272437193
+2018-01-18 16:18:25,143 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 16:18:28,975 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 16:18:34,682 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 16:18:37,038 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 16:18:37,038 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 16:18:37,203 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 16:18:39,203 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 16:18:43,450 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 16:18:43,450 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 16:18:45,670 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 16:18:45,671 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 16:18:49,822 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 16:18:49,985 - Step_Defination.Diamond_Search -INFO - Test start Time1516272529985
+2018-01-18 16:18:55,013 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/1072514a-bd99-484c-8ef7-d172b00f2c44/l83
+2018-01-18 16:18:55,014 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 5029milliseconds
+2018-01-18 16:19:02,911 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 16:21:34,548 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 16:21:38,368 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 16:21:46,641 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 16:21:48,870 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 16:21:48,871 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 16:21:49,050 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 16:21:51,050 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 16:21:55,316 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 16:21:55,316 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 16:21:57,473 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 16:21:57,473 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 16:22:01,695 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 16:22:01,895 - Step_Defination.Diamond_Search -INFO - Test start Time1516272721895
+2018-01-18 16:22:10,510 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/9b7faed9-3fe1-4825-9673-8cf4ab698d03/l83
+2018-01-18 16:22:10,511 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 8616milliseconds
+2018-01-18 16:22:18,422 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 16:24:30,616 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 16:24:34,445 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 16:24:40,697 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 16:24:42,916 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 16:24:42,917 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 16:24:43,088 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 16:24:45,089 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 16:24:49,257 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 16:24:49,257 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 16:24:51,403 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 16:24:51,403 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 16:24:55,638 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 16:24:55,806 - Step_Defination.Diamond_Search -INFO - Test start Time1516272895806
+2018-01-18 16:25:00,238 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/c68843c9-f401-4b0c-bba9-a43075f2ae9a/l83
+2018-01-18 16:25:00,239 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 4433milliseconds
+2018-01-18 16:25:08,018 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 16:34:06,570 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 16:34:10,413 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 16:34:18,770 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 16:34:20,979 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 16:34:20,980 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 16:34:21,144 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 16:34:23,145 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 16:34:27,376 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 16:34:27,377 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 16:34:29,551 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 16:34:29,552 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 16:34:33,755 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 16:34:33,924 - Step_Defination.Diamond_Search -INFO - Test start Time1516273473924
+2018-01-18 16:34:38,420 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/be37b6d5-1b4b-409b-84bf-3b820cf6c868/l83
+2018-01-18 16:34:38,420 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 4496milliseconds
+2018-01-18 16:34:46,343 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 16:49:20,944 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 16:49:24,802 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 16:49:37,798 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 16:49:41,797 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 16:49:41,799 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 16:49:42,591 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 16:49:44,593 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 16:49:49,096 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 16:49:49,100 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 16:49:51,536 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 16:49:51,537 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 16:49:55,949 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 16:49:56,404 - Step_Defination.Diamond_Search -INFO - Test start Time1516274396404
+2018-01-18 16:50:01,399 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/70998b1f-8f6c-4e64-8cd1-2e706a1effd8/l83
+2018-01-18 16:50:01,402 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 4998milliseconds
+2018-01-18 16:50:09,685 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 16:50:37,567 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 16:50:41,857 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 16:50:48,406 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 16:50:50,692 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 16:50:50,696 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 16:50:51,072 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 16:50:53,072 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 16:50:57,312 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 16:50:57,312 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 16:50:59,623 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 16:50:59,628 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 16:51:04,011 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 16:51:04,284 - Step_Defination.Diamond_Search -INFO - Test start Time1516274464284
+2018-01-18 16:51:09,436 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/1b49bee2-ba16-4be7-baaf-14a4db3941ad/l83
+2018-01-18 16:51:09,440 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 5156milliseconds
+2018-01-18 16:51:18,968 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 16:54:41,631 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 16:54:45,656 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 16:54:53,476 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 16:54:55,749 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 16:54:55,749 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 16:54:56,245 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 16:54:58,252 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 16:55:02,565 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 16:55:02,565 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 16:55:04,921 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 16:55:04,921 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 16:55:09,208 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 16:55:09,552 - Step_Defination.Diamond_Search -INFO - Test start Time1516274709552
+2018-01-18 16:55:15,574 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/836e6c67-a28f-43d5-8a1d-79810811d4e8/l83
+2018-01-18 16:55:15,574 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 6022milliseconds
+2018-01-18 16:55:23,561 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 17:03:45,634 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 17:03:49,550 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 17:03:57,088 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 17:03:59,454 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 17:03:59,454 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 17:03:59,687 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 17:04:01,688 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 17:04:05,980 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 17:04:05,980 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 17:04:08,158 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 17:04:08,158 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 17:04:12,461 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 17:04:12,658 - Step_Defination.Diamond_Search -INFO - Test start Time1516275252658
+2018-01-18 17:04:16,739 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/d49c82b9-23f2-42fa-9715-6a87ce0b95bc/l83
+2018-01-18 17:04:16,743 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 4085milliseconds
+2018-01-18 17:04:27,050 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 18:31:35,228 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 18:31:39,251 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 18:31:46,855 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 18:31:49,374 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 18:31:49,374 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 18:31:49,606 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 18:31:51,608 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 18:31:55,873 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 18:31:55,873 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 18:31:58,173 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 18:31:58,173 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 18:32:02,406 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 18:32:02,582 - Step_Defination.Diamond_Search -INFO - Test start Time1516280522582
+2018-01-18 18:32:07,213 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/9ca58fdb-da15-4d6b-8816-a38292baf538/l83
+2018-01-18 18:32:07,214 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 4632milliseconds
+2018-01-18 18:32:16,575 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 23:11:23,964 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 23:11:31,976 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 23:12:04,953 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 23:12:07,506 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 23:12:07,509 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 23:12:08,067 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 23:12:10,069 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 23:12:14,381 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 23:12:14,381 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 23:12:16,698 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 23:12:16,702 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 23:12:21,103 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 23:12:21,367 - Step_Defination.Diamond_Search -INFO - Test start Time1516297341367
+2018-01-18 23:12:33,423 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/a445250c-62fa-4546-87c0-1f20dd081c25
+2018-01-18 23:12:33,423 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 12056milliseconds
+2018-01-18 23:13:07,655 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 23:18:02,584 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 23:18:06,481 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 23:18:42,988 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 23:19:17,516 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 23:19:21,371 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 23:19:56,777 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 23:19:59,183 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 23:19:59,188 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 23:19:59,568 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 23:20:01,572 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 23:20:05,857 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 23:20:05,857 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 23:20:08,263 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 23:20:08,267 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 23:20:12,634 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 23:20:12,926 - Step_Defination.Diamond_Search -INFO - Test start Time1516297812926
+2018-01-18 23:20:27,236 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/4af22963-3661-4fab-a51e-d831202dee5c
+2018-01-18 23:20:27,237 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 14311milliseconds
+2018-01-18 23:20:57,496 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-18 23:37:01,416 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-18 23:37:05,305 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-18 23:37:17,592 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-18 23:37:22,405 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-18 23:37:22,409 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-18 23:37:22,689 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-18 23:37:24,693 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-18 23:37:28,940 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-18 23:37:28,940 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-18 23:37:31,254 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-18 23:37:31,254 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-18 23:37:35,714 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-18 23:37:36,139 - Step_Defination.Diamond_Search -INFO - Test start Time1516298856139
+2018-01-18 23:37:49,028 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/d09bd120-406f-44fb-94c1-22d2ab637f73
+2018-01-18 23:37:49,029 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 12889milliseconds
+2018-01-18 23:37:58,653 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-19 00:01:39,645 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-19 00:01:43,542 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-19 00:01:54,939 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-19 00:01:57,347 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-19 00:01:57,347 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-19 00:01:57,572 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-19 00:01:59,573 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-19 00:02:03,899 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-19 00:02:03,903 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-19 00:02:06,148 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-19 00:02:06,150 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-19 00:02:10,444 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-19 00:02:10,853 - Step_Defination.Diamond_Search -INFO - Test start Time1516300330853
+2018-01-19 00:02:19,414 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/a91d6418-52d4-4b62-a891-beed97b74639
+2018-01-19 00:02:19,414 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 8561milliseconds
+2018-01-19 00:02:30,569 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-19 00:04:27,950 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-19 00:04:31,844 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-19 00:05:11,513 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-19 00:05:13,978 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-19 00:05:13,982 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-19 00:05:14,363 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-19 00:05:16,364 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-19 00:05:20,629 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-19 00:05:20,629 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-19 00:05:22,912 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-19 00:05:22,916 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-19 00:05:27,205 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-19 00:05:27,483 - Step_Defination.Diamond_Search -INFO - Test start Time1516300527483
+2018-01-19 00:05:36,623 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/df5395a0-a818-46d1-99ff-a1a8ef4a0a4a
+2018-01-19 00:05:36,623 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 9140milliseconds
+2018-01-19 00:05:56,724 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-19 11:11:45,884 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-19 11:11:53,488 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-19 11:12:07,481 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-19 11:12:09,773 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-19 11:12:09,773 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-19 11:12:10,156 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-19 11:12:12,161 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-19 11:12:16,430 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-19 11:12:16,430 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-19 11:12:18,677 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-19 11:12:18,681 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-19 11:12:23,184 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-19 11:12:23,548 - Step_Defination.Diamond_Search -INFO - Test start Time1516340543548
+2018-01-19 11:21:35,750 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-19 11:21:43,724 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-19 11:21:51,294 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-19 11:21:53,794 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-19 11:21:53,794 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-19 11:21:54,106 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-19 11:21:56,130 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-19 11:22:15,498 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-19 11:22:15,499 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-19 11:22:32,843 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-19 11:22:32,843 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-19 11:22:43,670 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-19 11:22:43,878 - Step_Defination.Diamond_Search -INFO - Test start Time1516341163878
+2018-01-19 11:23:03,586 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/dfc674d4-3a74-4f7d-8942-de4973e3f192/l83
+2018-01-19 11:23:03,586 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 19708milliseconds
+2018-01-19 11:23:12,176 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-19 11:23:39,265 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2018-01-19 11:23:43,550 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-19 11:23:49,947 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-19 11:23:52,363 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-19 11:23:52,367 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-19 11:23:52,860 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-19 11:23:54,861 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-19 11:23:59,199 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-19 11:23:59,199 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-19 11:24:01,451 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-19 11:24:01,451 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-19 11:24:05,884 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-19 11:24:06,212 - Step_Defination.Diamond_Search -INFO - Test start Time1516341246212
+2018-01-19 11:24:20,845 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/7cb88ff1-2a07-431b-8e50-eabb18e1d74f/l83
+2018-01-19 11:24:20,846 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 14634milliseconds
+2018-01-19 11:24:31,022 - Step_Defination.Diamond_Search -INFO - Search Successful
