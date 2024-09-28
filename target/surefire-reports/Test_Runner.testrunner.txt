@@ -1,4 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: Test_Runner.testrunner
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 53.709 s - in Test_Runner.testrunner
+Tests run: 5, Failures: 0, Errors: 2, Skipped: 3, Time elapsed: 0.928 s <<< FAILURE! - in Test_Runner.testrunner
+Given Open firefox and start application(| 10000 | 1.5 | 80 | 180 | 84 |)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make field private final java.util.Comparator java.util.TreeMap.comparator accessible: module java.base does not "opens java.util" to unnamed module @76a3e297
+
+| 10000 | 1.5 | 80 | 180 | 84 |  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make field private final java.util.Comparator java.util.TreeMap.comparator accessible: module java.base does not "opens java.util" to unnamed module @76a3e297
+

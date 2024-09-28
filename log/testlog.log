@@ -283,3 +283,7 @@
 2018-01-19 11:24:20,845 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/7cb88ff1-2a07-431b-8e50-eabb18e1d74f/l83
 2018-01-19 11:24:20,846 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 14634milliseconds
 2018-01-19 11:24:31,022 - Step_Defination.Diamond_Search -INFO - Search Successful
+2024-09-27 20:47:39,936 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2024-09-27 20:51:06,411 - Step_Defination.Diamond_Search -INFO - Opening Browser
+2024-09-27 20:51:47,522 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2024-09-27 20:52:22,001 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource

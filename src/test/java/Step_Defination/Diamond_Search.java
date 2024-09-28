@@ -16,21 +16,22 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import Page_Object.Filter_By_Diamond_page;
-import cucumber.api.java.en.Given;
-import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
 
 public class Diamond_Search {
 	static final Logger logger = Logger.getLogger(Diamond_Search.class);
 	public static WebDriver driver;
 	EmailAttachmentSender es=new EmailAttachmentSender();
 
-	@Given("^Open firefox and start application$")
+	@Given("^Open chrome and start application$")
 	public void Open_firefox_and_start_application() throws Throwable {
 		BasicConfigurator.configure();
 		logger.info("Opening Browser");
 		//System.setProperty("webdriver.chrome.driver","driver//chromedriver");
-		System.setProperty("webdriver.chrome.driver","driver//chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","driver//chromedriver");
 		driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
