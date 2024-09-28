@@ -35,7 +35,7 @@ public class Diamond_Search {
 		driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
-		logger.info("Fetching URL and Opening the Url");
+		logger.info("Fetching URL and Opening the Url for validation");
 
 		driver.get("http://www.rarecarat.com");
 		// Comment Ashu
